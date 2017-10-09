@@ -10,4 +10,10 @@ $body-text-color: #2e3436;
 
 @import "{{ site.theme }}";
 
-background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color, $header-bg-color-secondary, $header-bg-color);
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color,
+    $header-bg-color-secondary, $header-bg-color);
+}
