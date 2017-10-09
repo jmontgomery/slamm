@@ -1,7 +1,7 @@
 ---
 ---
 
-$header-heading-color: #c17d11;
+$header-heading-color: #edd400;
 $header-bg-color: #888a85;
 $header-bg-color-secondary: #555753;
 $section-headings-color: #4e9a06;
@@ -9,3 +9,5 @@ $body-link-color: #3465a4;
 $body-text-color: #2e3436;
 
 @import "{{ site.theme }}";
+
+background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color, $header-bg-color-secondary, $header-bg-color);
