@@ -1,6 +1,8 @@
 # SLAMM! 2018: Friday, April 20, 2018
 *Hosted by Iowa State University*
 
+**The full schedule for SLAMM! is now posted [here](schedule.md)!**
+
 We are excited to announce that the Department of Political Science at Iowa State University will host the 11th annual St. Louis Area Methods Meeting (SLAMM!).
 
 SLAMM! will feature an exciting lineup of faculty presentations by:
